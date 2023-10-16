@@ -1,0 +1,10 @@
+{
+    "name": "lp/calculator",
+    "description": "This is for demo purpose",
+    "autoload": {
+        "psr-4": {
+            "Lp\\Calculator\\": "src/"
+        }
+    },
+    "require": {}
+}
